@@ -6,7 +6,10 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
+attacker = "GhB62wmFdADQeev3EkDpF9CahNmMbUd8RjDADWJg2ApR"
 examples = "7Tvuosetih5XpvrfKmQeyhcmcqix8K9ijmbho4yV8e1V"
+faucet = "HPZ99LcPpWiVqKmNKkUQPwyiytkpYg5tbMY4Sv3x9cvP"
+vault = "6qsJF44KYSjfA5jDbivqqfcsjk18hR6ZJPMdj3ZTAWvu"
 
 [registry]
 url = "https://api.apr.dev"
